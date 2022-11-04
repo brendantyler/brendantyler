@@ -1,6 +1,6 @@
 ![Typing Animation Gif](assets/typing.gif)
 
-## Hello, I'm Brendan  👋
+### Hello, I'm Brendan 👋
 I am a Software Development student  at Manitoba Institute of Trades and Technology in Winnipeg, Manitoba, Canada. 
 
 I am passionate about programming and am trying to grow and improve my programming skills.
@@ -12,6 +12,3 @@ Other hobbies I have are JiuJitsu and playing video games.
 
 ####📊 Stats
 ![Brendan Galman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brendantyler&theme=rose_pine&show_icons=true)
-
-
-

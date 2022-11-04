@@ -15,9 +15,9 @@ Other hobbies I have are JiuJitsu and playing video games.
 
 ## Connect📱
 
-   [<img src="assets/instagramShieldIO.svg" alt="Instagram Link to @brendangalman">](https://www.instagram.com/brendangalman/?hl=en) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&&size=15&pause=1000&color=%23+%23e4445c&vCenter=true&width=300&height=25&lines=<+%40brendangalman)](https://git.io/typing-svg)
+   [<img src="assets/instagramShieldIO.svg" alt="Instagram Link to @brendangalman">](https://www.instagram.com/brendangalman/?hl=en) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&&size=15&pause=1000&color=%23+%23e4445c&vCenter=true&width=255&height=25&lines=<+%40brendangalman)](https://git.io/typing-svg)
 
-  [<img src="assets/outlookShieldIO.svg">](mailto:brendan.galman@outlook.com) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&&size=15&pause=1100&color=%23+%2047cd4&vCenter=true&width=300&height=25&lines=<+brendan.galman@outlook.com)](https://git.io/typing-svg)
+  [<img src="assets/outlookShieldIO.svg">](mailto:brendan.galman@outlook.com) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&&size=15&pause=1000&color=%23+%2047cd4&vCenter=true&width=252&height=25&lines=<+brendan.galman@outlook.com)](https://git.io/typing-svg)
   
 
 ## Stats📊

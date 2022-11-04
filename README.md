@@ -1,5 +1,6 @@
-![Typing Animation Gif](assets/typing.gif)
-
+<p align="center">
+  <img src="assets/typing.gif" alt="Fast Typing Animation">
+</p>
 # Hello, I'm Brendan Galman👋 ## 
 
 I am a Software Development student  at Manitoba Institute of Trades and Technology in Winnipeg, Manitoba, Canada. 

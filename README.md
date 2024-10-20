@@ -2,7 +2,7 @@
 
 # Hello, I'm Brendan Galman
 
-I am a Software Development student  at Manitoba Institute of Trades and Technology in Winnipeg, Manitoba, Canada. 
+I am a Software Developer that studied at Manitoba Institute of Trades and Technology located in in Winnipeg, Manitoba, Canada. 
 
 I am passionate about programming and am trying to grow and improve my programming skills.
 
